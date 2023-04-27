@@ -1,9 +1,9 @@
 {
 	"prefer": {
-		"favorite movie": "The Crown",
-		"favorite series": "Freands", 
-		"favirite food": "Ice cream",
-		"favorite season": "summer",
+		"favorite_movie": "The Crown",
+		"favorite_series": "Freands", 
+		"favirite_food": "Ice cream",
+		"favorite_season": "summer",
 		"country": "Australia"
 	}
 }

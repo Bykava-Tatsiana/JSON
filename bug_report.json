@@ -1,16 +1,16 @@
 {
    "bug_report": {
-        "short description": ".",
+        "short_description": ".",
         "project": ".",
         "version": ".",
-        "bug severity": ".",
+        "bug_severity": ".",
         "priority": ".",
         "status": ".",
         "author": ".",
         "perfomer": ".",
         "steps": ".",
-        "actual result": ".",
-        "expected result": ".",
+        "actual_result": ".",
+        "expected_result": ".",
         "additions": "."
     }
 }
